@@ -183,3 +183,10 @@ button:hover {
   border-radius: 0.25rem;
   outline: none;
 }
+
+/* challenge1 */
+.box {
+  min-height: 200px;
+  min-width: 200px;
+  border: 2px solid red;
+}
